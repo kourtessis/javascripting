@@ -1,0 +1,37 @@
+../,zshrc
+	../.CFUserTextEncoding
+	../.DS_Store
+	../.anyconnect
+	../.cisco/
+	../.config/
+	../.gem/
+	../.gitconfig
+	../.irb_history
+	../.lesshst
+	../.node_repl_history
+	../.npm/
+	../.nvm/
+	../.rbenv/
+	../.ssh/
+	../.vscode/
+	../.zcompdump
+	../.zprofile
+	"../.zprofileval \"$(rbenv init - zsh)\""
+	../.zsh_history
+	../.zsh_sessions/
+	../.zshrc
+	../Applications/
+	../Desktop/
+	../Documents/
+	../Downloads/
+	../Library/
+	../Movies/
+	../Music/
+	../Pictures/
+	../Public/
+	../children
+	../file.txt
+	../grandchildren
+	../lighthouse-js-fundamentals/
+	../parents
+	../patchwork
